@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-catme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cat-me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raininsnovv",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "figlet": "^1.5.2"
+  }
+}
